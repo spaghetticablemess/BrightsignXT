@@ -350,7 +350,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\Weather\weatherwidget.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\weatherwidget.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>WST-Server</name>
@@ -361,7 +361,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-server-room.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\WirelessSensorTag-server-room.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>WST-bmt-fridge</name>
@@ -372,7 +372,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-basement-fridge.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\WirelessSensorTag-basement-fridge.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>WST-bmt-freezer</name>
@@ -383,7 +383,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-basement-freezer.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\WirelessSensorTag-basement-freezer.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>WST-kitchen-fridge</name>
@@ -394,7 +394,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-kitchen-fridge.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\WirelessSensorTag-kitchen-fridge.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>WST-kitchen-freezer</name>
@@ -405,7 +405,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-kitchen-freezer.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\WirelessSensorTag-kitchen-freezer.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>Radar</name>
@@ -416,73 +416,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\radar.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icons-Rainy</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - rainy.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icons-Cloudy</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - cloudy.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icons-Sunny</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - sunny.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icons-Snow</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - flurries.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icons-SunRain</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - sunnyrain.html</filePath>
-      </localHTMLSite>
-      <localHTMLSite>
-        <name>Wx-Icon-Thunderstorm</name>
-        <queryString>
-          <parameterValue>
-            <parameterValueItemText>
-              <value />
-            </parameterValueItemText>
-          </parameterValue>
-        </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - thunderstorms.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\radar.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>AerisWx</name>
@@ -493,7 +427,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\AerisWx.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\AerisWx.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>Weather-Herndon</name>
@@ -504,7 +438,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-herndon.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\weather-herndon.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>Weather-DC</name>
@@ -515,7 +449,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-DC.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\weather-DC.html</filePath>
       </localHTMLSite>
       <localHTMLSite>
         <name>Weather-Summary</name>
@@ -526,7 +460,7 @@
             </parameterValueItemText>
           </parameterValue>
         </queryString>
-        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-summary.html</filePath>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\weather-summary.html</filePath>
       </localHTMLSite>
     </htmlSites>
     <presentationIdentifiers>
@@ -534,21 +468,21 @@
     <beacons>
     </beacons>
     <DirectoryLocations>
-      <AllFiles>\\TOWER\John\Documents\BrightSignXT\Projects\Plugin</AllFiles>
-      <Image>\\TOWER\John\Documents\BrightSignXT\Projects\Assets</Image>
-      <Video>\\TOWER\John\Documents\BrightSignXT\Projects</Video>
-      <Audio>\\TOWER\John\Documents\BrightSignXT\Projects</Audio>
-      <Media>\\TOWER\John\Documents\BrightSignXT\Projects</Media>
-      <Fonts>\\TOWER\John\Documents\BrightSignXT\Projects</Fonts>
-      <HTML>\\TOWER\John\Documents\BrightSignXT\Projects\HTML</HTML>
-      <PluginScriptsAutoruns>\\TOWER\John\Documents\BrightSignXT\Projects\Plugin</PluginScriptsAutoruns>
-      <CSV>\\TOWER\John\Documents\BrightSignXT\Projects</CSV>
-      <RFChannelScan>\\TOWER\John\Documents\BrightSignXT\Projects</RFChannelScan>
-      <Schedules>\\TOWER\John\Documents\BrightSignXT\Projects</Schedules>
-      <ReplacementMedia>\\TOWER\John\Documents\BrightSignXT\Projects</ReplacementMedia>
-      <UserVariables>\\TOWER\John\Documents\BrightSignXT\Projects</UserVariables>
-      <XModemFiles>\\TOWER\John\Documents\BrightSignXT\Projects</XModemFiles>
-      <ImportCommandFiles>\\TOWER\John\Documents\BrightSignXT\Projects</ImportCommandFiles>
+      <AllFiles>\\TOWER\John\Documents\BrightSignXT\GitHub</AllFiles>
+      <Image>\\TOWER\John\Documents\BrightSignXT\GitHub</Image>
+      <Video>\\TOWER\John\Documents\BrightSignXT\GitHub</Video>
+      <Audio>\\TOWER\John\Documents\BrightSignXT\GitHub</Audio>
+      <Media>\\TOWER\John\Documents\BrightSignXT\GitHub</Media>
+      <Fonts>\\TOWER\John\Documents\BrightSignXT\GitHub</Fonts>
+      <HTML>\\TOWER\John\Documents\BrightSignXT\GitHub</HTML>
+      <PluginScriptsAutoruns>\\TOWER\John\Documents\BrightSignXT\GitHub</PluginScriptsAutoruns>
+      <CSV>\\TOWER\John\Documents\BrightSignXT\GitHub</CSV>
+      <RFChannelScan>\\TOWER\John\Documents\BrightSignXT\GitHub</RFChannelScan>
+      <Schedules>\\TOWER\John\Documents\BrightSignXT\GitHub</Schedules>
+      <ReplacementMedia>\\TOWER\John\Documents\BrightSignXT\GitHub</ReplacementMedia>
+      <UserVariables>\\TOWER\John\Documents\BrightSignXT\GitHub</UserVariables>
+      <XModemFiles>\\TOWER\John\Documents\BrightSignXT\GitHub</XModemFiles>
+      <ImportCommandFiles>\\TOWER\John\Documents\BrightSignXT\GitHub</ImportCommandFiles>
     </DirectoryLocations>
     <graphicsZOrder>Middle</graphicsZOrder>
     <isMosaic>False</isMosaic>
@@ -899,7 +833,7 @@
               <displayCursor>False</displayCursor>
               <hwzOn>False</hwzOn>
               <useUserStylesheet>True</useUserStylesheet>
-              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\aeris-wxblox.css</userStylesheet>
+              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\aeris-wxblox.css</userStylesheet>
               <timeOnScreen>0</timeOnScreen>
             </html5Item>
             <brightSignExitCommands>
@@ -1733,21 +1667,6 @@
           <transition>
             <sourceMediaState>Large</sourceMediaState>
             <userEvent>
-              <name>keyboard</name>
-              <parameters>
-                <parameter>+</parameter>
-              </parameters>
-            </userEvent>
-            <targetMediaState>Normal</targetMediaState>
-            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
-            <displayMode>displayConnectingLine</displayMode>
-            <labelLocation>bottom</labelLocation>
-            <assignInputToUserVariable>False</assignInputToUserVariable>
-            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
-          </transition>
-          <transition>
-            <sourceMediaState>Large</sourceMediaState>
-            <userEvent>
               <name>udp</name>
               <parameters>
                 <parameter>TV Overlay Mode</parameter>
@@ -1758,21 +1677,6 @@
             <targetMediaState>Normal</targetMediaState>
             <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
             <displayMode>displayConnectingLine</displayMode>
-            <labelLocation>bottom</labelLocation>
-            <assignInputToUserVariable>False</assignInputToUserVariable>
-            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
-          </transition>
-          <transition>
-            <sourceMediaState>Normal</sourceMediaState>
-            <userEvent>
-              <name>keyboard</name>
-              <parameters>
-                <parameter>+</parameter>
-              </parameters>
-            </userEvent>
-            <targetMediaState>Large</targetMediaState>
-            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
-            <displayMode>displayLabel</displayMode>
             <labelLocation>bottom</labelLocation>
             <assignInputToUserVariable>False</assignInputToUserVariable>
             <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
@@ -1906,9 +1810,9 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -1938,7 +1842,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-blank-blue.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -1991,9 +1895,9 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2106,8 +2010,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2137,7 +2041,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-blank-blue.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -2190,8 +2094,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2304,8 +2208,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2335,7 +2239,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-blank-blue.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -2388,8 +2292,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2502,8 +2406,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2533,7 +2437,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-blank-blue.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -2586,8 +2490,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2700,8 +2604,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2731,7 +2635,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-blank-blue.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -2784,8 +2688,8 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2928,10 +2832,10 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Front Door:Front Door Unlocked" label="front_door_unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-unlock.png" name="wide-banner-front-door-unlock.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door:Front Door Locked" label="front_door_locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-lock.png" name="wide-banner-front-door-lock.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Front Door:Front Door Open" label="front_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-open.png" name="wide-banner-front-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
-                <file key="Deck Door:Deck Door On" label="deck_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-deck-door-open.png" name="wide-banner-deck-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door:Front Door Unlocked" label="front_door_unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\wide-banner-front-door-unlock.png" name="wide-banner-front-door-unlock.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door:Front Door Locked" label="front_door_locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\wide-banner-front-door-lock.png" name="wide-banner-front-door-lock.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door:Front Door Open" label="front_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\wide-banner-front-door-open.png" name="wide-banner-front-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Deck Door:Deck Door On" label="deck_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\wide-banner-deck-door-open.png" name="wide-banner-deck-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -2975,7 +2879,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="wide-banner-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-blank.png" />
+                  <file name="wide-banner-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\wide-banner-blank.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>.25</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -3094,7 +2998,7 @@
               <liveDataFeedName />
               <files>
                 <imageItem>
-                  <file name="motion-banner-alert-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\motion-banner-alert-blank.png" />
+                  <file name="motion-banner-alert-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\motion-banner-alert-blank.png" />
                   <fileIsLocal>True</fileIsLocal>
                   <transitionDuration>1.0</transitionDuration>
                   <videoPlayerRequired>False</videoPlayerRequired>
@@ -3133,7 +3037,7 @@
               </userVariable>
               <liveDataFeedName />
               <filesTable>
-                <file key="Motion Front Door" label="front-door-motion-alert" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\motion-banner-alert-front-door.png" name="motion-banner-alert-front-door.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Motion Front Door" label="front-door-motion-alert" export="False" path="\\TOWER\John\Documents\BrightSignXT\GitHub\Assets\motion-banner-alert-front-door.png" name="motion-banner-alert-front-door.png" suffix="" videoDisplayMode="2D" type="image" />
               </filesTable>
             </playFileItem>
             <brightSignExitCommands>
@@ -3390,7 +3294,7 @@
               <displayCursor>False</displayCursor>
               <hwzOn>False</hwzOn>
               <useUserStylesheet>True</useUserStylesheet>
-              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\aeris-wxblox.css</userStylesheet>
+              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\GitHub\HTML\aeris-wxblox.css</userStylesheet>
               <timeOnScreen>0</timeOnScreen>
             </html5Item>
             <brightSignExitCommands>
