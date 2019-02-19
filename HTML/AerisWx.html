@@ -1,0 +1,9 @@
+<script src="https://cdn.aerisapi.com/wxblox/aeris-wxblox.min.js"></script>
+<div id="wxblox" class="aeris-wrapper"></div>
+<script>
+  Aeris.wxblox.setAccess('CLIENT_KEY', 'CLIENT_SECRET');
+  var view = new Aeris.wxblox.layouts.local.Main('#wxblox');
+  view.load({
+    p: 'minneapolis,mn'
+  });
+</script>

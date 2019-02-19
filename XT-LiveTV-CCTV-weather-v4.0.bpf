@@ -1,0 +1,3419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BrightAuthor version="6" BrightAuthorVersion="4.7.2.5" type="project">
+  <meta>
+    <name>XT-LiveTV-CCTV-weather-v4.0</name>
+    <isBackup>False</isBackup>
+    <model>XT1143</model>
+    <videoMode>1920x1080x60p</videoMode>
+    <monitorOrientation>Landscape</monitorOrientation>
+    <videoConnector>HDMI</videoConnector>
+    <deviceWebPageDisplay>Standard</deviceWebPageDisplay>
+    <alphabetizeVariableNames>True</alphabetizeVariableNames>
+    <delayScheduleChangeUntilMediaEndEvent>False</delayScheduleChangeUntilMediaEndEvent>
+    <htmlEnableJavascriptConsole>False</htmlEnableJavascriptConsole>
+    <backgroundScreenColor a="255" r="0" g="0" b="0" />
+    <forceResolution>True</forceResolution>
+    <dolbyVision>False</dolbyVision>
+    <fullResGraphicsEnabled>False</fullResGraphicsEnabled>
+    <tenBitColorEnabled>False</tenBitColorEnabled>
+    <monitorOverscan>noOverscan</monitorOverscan>
+    <gpio0>input</gpio0>
+    <gpio1>input</gpio1>
+    <gpio2>input</gpio2>
+    <gpio3>input</gpio3>
+    <gpio4>input</gpio4>
+    <gpio5>input</gpio5>
+    <gpio6>input</gpio6>
+    <gpio7>input</gpio7>
+    <BP900AConfigureAutomatically>True</BP900AConfigureAutomatically>
+    <BP900BConfigureAutomatically>True</BP900BConfigureAutomatically>
+    <BP900CConfigureAutomatically>True</BP900CConfigureAutomatically>
+    <BP900DConfigureAutomatically>True</BP900DConfigureAutomatically>
+    <BP200AConfigureAutomatically>True</BP200AConfigureAutomatically>
+    <BP200BConfigureAutomatically>True</BP200BConfigureAutomatically>
+    <BP200CConfigureAutomatically>True</BP200CConfigureAutomatically>
+    <BP200DConfigureAutomatically>True</BP200DConfigureAutomatically>
+    <BP900AConfiguration>0</BP900AConfiguration>
+    <BP900BConfiguration>0</BP900BConfiguration>
+    <BP900CConfiguration>0</BP900CConfiguration>
+    <BP900DConfiguration>0</BP900DConfiguration>
+    <BP200AConfiguration>0</BP200AConfiguration>
+    <BP200BConfiguration>0</BP200BConfiguration>
+    <BP200CConfiguration>0</BP200CConfiguration>
+    <BP200DConfiguration>0</BP200DConfiguration>
+    <SerialPortConfiguration>
+      <port>0</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>1</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>2</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>3</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>4</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>5</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>6</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>7</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <udpDestinationAddressType>IPAddress</udpDestinationAddressType>
+    <udpDestinationAddress>192.168.1.48</udpDestinationAddress>
+    <udpDestinationPort>5000</udpDestinationPort>
+    <udpReceiverPort>5000</udpReceiverPort>
+    <flipCoordinates>false</flipCoordinates>
+    <touchCursorDisplayMode>auto</touchCursorDisplayMode>
+    <language>English</language>
+    <languageKey>eng</languageKey>
+    <audioConfiguration>MixedAudioPCMOnly</audioConfiguration>
+    <audioAutoLevel>False</audioAutoLevel>
+    <audio1MinVolume>0</audio1MinVolume>
+    <audio1MaxVolume>100</audio1MaxVolume>
+    <audio2MinVolume>0</audio2MinVolume>
+    <audio2MaxVolume>100</audio2MaxVolume>
+    <audio3MinVolume>0</audio3MinVolume>
+    <audio3MaxVolume>100</audio3MaxVolume>
+    <usbAMinVolume>0</usbAMinVolume>
+    <usbAMaxVolume>100</usbAMaxVolume>
+    <usbBMinVolume>0</usbBMinVolume>
+    <usbBMaxVolume>100</usbBMaxVolume>
+    <usbCMinVolume>0</usbCMinVolume>
+    <usbCMaxVolume>100</usbCMaxVolume>
+    <usbDMinVolume>0</usbDMinVolume>
+    <usbDMaxVolume>100</usbDMaxVolume>
+    <usbTypeAMinVolume>0</usbTypeAMinVolume>
+    <usbTypeAMaxVolume>100</usbTypeAMaxVolume>
+    <usbTypeCMinVolume>0</usbTypeCMinVolume>
+    <usbTypeCMaxVolume>100</usbTypeCMaxVolume>
+    <usb700_1MinVolume>0</usb700_1MinVolume>
+    <usb700_1MaxVolume>100</usb700_1MaxVolume>
+    <usb700_2MinVolume>0</usb700_2MinVolume>
+    <usb700_2MaxVolume>100</usb700_2MaxVolume>
+    <usb700_3MinVolume>0</usb700_3MinVolume>
+    <usb700_3MaxVolume>100</usb700_3MaxVolume>
+    <usb700_4MinVolume>0</usb700_4MinVolume>
+    <usb700_4MaxVolume>100</usb700_4MaxVolume>
+    <usb700_5MinVolume>0</usb700_5MinVolume>
+    <usb700_5MaxVolume>100</usb700_5MaxVolume>
+    <usb700_6MinVolume>0</usb700_6MinVolume>
+    <usb700_6MaxVolume>100</usb700_6MaxVolume>
+    <usb700_7MinVolume>0</usb700_7MinVolume>
+    <usb700_7MaxVolume>100</usb700_7MaxVolume>
+    <hdmiMinVolume>0</hdmiMinVolume>
+    <hdmiMaxVolume>100</hdmiMaxVolume>
+    <spdifMinVolume>0</spdifMinVolume>
+    <spdifMaxVolume>100</spdifMaxVolume>
+    <inactivityTimeout>False</inactivityTimeout>
+    <inactivityTime>30</inactivityTime>
+    <autoCreateMediaCounterVariables>False</autoCreateMediaCounterVariables>
+    <resetVariablesOnPresentationStart>False</resetVariablesOnPresentationStart>
+    <networkedVariablesUpdateInterval>300</networkedVariablesUpdateInterval>
+    <userDefinedEvents>
+      <userDefinedEvent name="event">
+        <userEvents>
+          <userEvent>
+            <name>keyboard</name>
+            <parameters>
+              <parameter>y</parameter>
+            </parameters>
+          </userEvent>
+        </userEvents>
+      </userDefinedEvent>
+    </userDefinedEvents>
+    <userVariables>
+      <userVariable>
+        <name>Status Notification</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Status Front Door</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Status Back Deck</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Status Kitchen Door</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Status Basement Door</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Status Garage Doors</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Motion Front Door</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Motion Driveway</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Motion Back Deck</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Motion Basement Door</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Front Door Status</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+      <userVariable>
+        <name>Motion Alert</name>
+        <defaultValue />
+        <networked>False</networked>
+        <liveDataFeedName />
+        <systemVariable />
+        <access>Shared</access>
+      </userVariable>
+    </userVariables>
+    <liveDataFeeds>
+      <liveDataFeed>
+        <name>Reuters News</name>
+        <url>
+          <parameterValue>
+            <parameterValueItemText>
+              <value>http://feeds.reuters.com/Reuters/domesticNews</value>
+            </parameterValueItemText>
+          </parameterValue>
+        </url>
+        <dataFeedUse>Text</dataFeedUse>
+        <updateInterval>300</updateInterval>
+        <useHeadRequest>True</useHeadRequest>
+        <parserPluginName />
+        <autoGenerateUserVariables>False</autoGenerateUserVariables>
+        <userVariableAccess>Private</userVariableAccess>
+        <uvParserPluginName />
+      </liveDataFeed>
+      <liveDataFeed>
+        <name>WxRSS</name>
+        <url>
+          <parameterValue>
+            <parameterValueItemText>
+              <value>http://weather.yahooapis.com/forecastrss?p=94089</value>
+            </parameterValueItemText>
+          </parameterValue>
+        </url>
+        <dataFeedUse>Text</dataFeedUse>
+        <updateInterval>300</updateInterval>
+        <useHeadRequest>True</useHeadRequest>
+        <parserPluginName />
+        <autoGenerateUserVariables>False</autoGenerateUserVariables>
+        <userVariableAccess>Private</userVariableAccess>
+        <uvParserPluginName />
+      </liveDataFeed>
+    </liveDataFeeds>
+    <scriptPlugins>
+    </scriptPlugins>
+    <videoModePlugins>
+    </videoModePlugins>
+    <parserPlugins>
+    </parserPlugins>
+    <htmlSites>
+      <localHTMLSite>
+        <name>Weather</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\Weather\weatherwidget.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>WST-Server</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-server-room.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>WST-bmt-fridge</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-basement-fridge.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>WST-bmt-freezer</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-basement-freezer.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>WST-kitchen-fridge</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-kitchen-fridge.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>WST-kitchen-freezer</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\WirelessSensorTag-kitchen-freezer.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Radar</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\radar.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icons-Rainy</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - rainy.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icons-Cloudy</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - cloudy.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icons-Sunny</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - sunny.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icons-Snow</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - flurries.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icons-SunRain</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - sunnyrain.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Wx-Icon-Thunderstorm</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather_icons - thunderstorms.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>AerisWx</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\AerisWx.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Weather-Herndon</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-herndon.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Weather-DC</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-DC.html</filePath>
+      </localHTMLSite>
+      <localHTMLSite>
+        <name>Weather-Summary</name>
+        <queryString>
+          <parameterValue>
+            <parameterValueItemText>
+              <value />
+            </parameterValueItemText>
+          </parameterValue>
+        </queryString>
+        <filePath>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\weather-summary.html</filePath>
+      </localHTMLSite>
+    </htmlSites>
+    <presentationIdentifiers>
+    </presentationIdentifiers>
+    <beacons>
+    </beacons>
+    <DirectoryLocations>
+      <AllFiles>\\TOWER\John\Documents\BrightSignXT\Projects\Plugin</AllFiles>
+      <Image>\\TOWER\John\Documents\BrightSignXT\Projects\Assets</Image>
+      <Video>\\TOWER\John\Documents\BrightSignXT\Projects</Video>
+      <Audio>\\TOWER\John\Documents\BrightSignXT\Projects</Audio>
+      <Media>\\TOWER\John\Documents\BrightSignXT\Projects</Media>
+      <Fonts>\\TOWER\John\Documents\BrightSignXT\Projects</Fonts>
+      <HTML>\\TOWER\John\Documents\BrightSignXT\Projects\HTML</HTML>
+      <PluginScriptsAutoruns>\\TOWER\John\Documents\BrightSignXT\Projects\Plugin</PluginScriptsAutoruns>
+      <CSV>\\TOWER\John\Documents\BrightSignXT\Projects</CSV>
+      <RFChannelScan>\\TOWER\John\Documents\BrightSignXT\Projects</RFChannelScan>
+      <Schedules>\\TOWER\John\Documents\BrightSignXT\Projects</Schedules>
+      <ReplacementMedia>\\TOWER\John\Documents\BrightSignXT\Projects</ReplacementMedia>
+      <UserVariables>\\TOWER\John\Documents\BrightSignXT\Projects</UserVariables>
+      <XModemFiles>\\TOWER\John\Documents\BrightSignXT\Projects</XModemFiles>
+      <ImportCommandFiles>\\TOWER\John\Documents\BrightSignXT\Projects</ImportCommandFiles>
+    </DirectoryLocations>
+    <graphicsZOrder>Middle</graphicsZOrder>
+    <isMosaic>False</isMosaic>
+  </meta>
+  <zones>
+    <zone>
+      <name>CCTV</name>
+      <x>1146</x>
+      <y>104</y>
+      <width>774</width>
+      <height>542</height>
+      <type>VideoOrImages</type>
+      <id>2</id>
+      <zoomValue>0.703125</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>144</verticalOffset>
+      <zoneSpecificParameters>
+        <viewMode>Scale to Fill</viewMode>
+        <audioOutput>Analog Audio</audioOutput>
+        <audioMode>Multichannel Surround</audioMode>
+        <audioMapping>Audio-1</audioMapping>
+        <analogOutput>None</analogOutput>
+        <analog2Output>None</analog2Output>
+        <analog3Output>None</analog3Output>
+        <hdmiOutput>None</hdmiOutput>
+        <spdifOutput>None</spdifOutput>
+        <usbOutput>None</usbOutput>
+        <usbOutputA>None</usbOutputA>
+        <usbOutputB>None</usbOutputB>
+        <usbOutputC>None</usbOutputC>
+        <usbOutputD>None</usbOutputD>
+        <usbOutputTypeA>None</usbOutputTypeA>
+        <usbOutputTypeC>None</usbOutputTypeC>
+        <usbOutput700_1>None</usbOutput700_1>
+        <usbOutput700_2>None</usbOutput700_2>
+        <usbOutput700_3>None</usbOutput700_3>
+        <usbOutput700_4>None</usbOutput700_4>
+        <usbOutput700_5>None</usbOutput700_5>
+        <usbOutput700_6>None</usbOutput700_6>
+        <usbOutput700_7>None</usbOutput700_7>
+        <audioMixMode>Stereo</audioMixMode>
+        <videoVolume>100</videoVolume>
+        <audioVolume>100</audioVolume>
+        <minimumVolume>0</minimumVolume>
+        <maximumVolume>100</maximumVolume>
+        <liveVideoInput>S-Video</liveVideoInput>
+        <liveVideoStandard>NTSC-M</liveVideoStandard>
+        <brightness>128</brightness>
+        <contrast>64</contrast>
+        <saturation>64</saturation>
+        <hue>0</hue>
+        <zOrderFront>True</zOrderFront>
+        <mosaic>False</mosaic>
+        <maxContentResolution>_NotApplicable</maxContentResolution>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 1</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Quad</initialState>
+          <state>
+            <name>Driveway</name>
+            <x>120</x>
+            <y>687</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <videoStreamItem>
+              <streamSpec name="Driveway" timeOnScreen="0" />
+              <url>
+                <parameterValue>
+                  <parameterValueItemText>
+                    <value>rtsp://admin:password@192.168.1.221/Streaming/Channels/2</value>
+                  </parameterValueItemText>
+                </parameterValue>
+              </url>
+            </videoStreamItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Front Door</name>
+            <x>119</x>
+            <y>455</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <videoStreamItem>
+              <streamSpec name="Video Stream" timeOnScreen="0" />
+              <url>
+                <parameterValue>
+                  <parameterValueItemText>
+                    <value>rtsp://admin:password@192.168.1.222/Streaming/Channels/2</value>
+                  </parameterValueItemText>
+                </parameterValue>
+              </url>
+            </videoStreamItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Quad</name>
+            <x>116</x>
+            <y>231</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <videoStreamItem>
+              <streamSpec name="Quad" timeOnScreen="0" />
+              <url>
+                <parameterValue>
+                  <parameterValueItemText>
+                    <value>rtsp://admin:password@192.168.1.220/Streaming/Channels/001</value>
+                  </parameterValueItemText>
+                </parameterValue>
+              </url>
+            </videoStreamItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Driveway</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Motion Front Door&lt;any&gt;</parameter>
+                <label>Motion Front Door&lt;any&gt;</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Front Door</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Driveway</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>TV Overlay Cameras</parameter>
+                <label>TV Overlay Cameras</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Quad</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Front Door</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Motion Driveway&lt;any&gt;</parameter>
+                <label>Motion Driveway&lt;any&gt;</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Driveway</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Front Door</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>TV Overlay Cameras</parameter>
+                <label>TV Overlay Cameras</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Driveway</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Quad</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Motion Front Door&lt;any&gt;</parameter>
+                <label>Motion Front Door&lt;any&gt;</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Front Door</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Quad</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>TV Overlay Cameras</parameter>
+                <label>TV Overlay Cameras</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Front Door</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Live Video</name>
+      <x>0</x>
+      <y>0</y>
+      <width>1148</width>
+      <height>646</height>
+      <type>VideoOnly</type>
+      <id>5</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <viewMode>Fill Screen and Centered</viewMode>
+        <audioOutput>Analog Audio</audioOutput>
+        <audioMode>Multichannel Surround</audioMode>
+        <audioMapping>Audio-1</audioMapping>
+        <analogOutput>None</analogOutput>
+        <analog2Output>None</analog2Output>
+        <analog3Output>None</analog3Output>
+        <hdmiOutput>PCM</hdmiOutput>
+        <spdifOutput>None</spdifOutput>
+        <usbOutput>None</usbOutput>
+        <usbOutputA>None</usbOutputA>
+        <usbOutputB>None</usbOutputB>
+        <usbOutputC>None</usbOutputC>
+        <usbOutputD>None</usbOutputD>
+        <usbOutputTypeA>None</usbOutputTypeA>
+        <usbOutputTypeC>None</usbOutputTypeC>
+        <usbOutput700_1>None</usbOutput700_1>
+        <usbOutput700_2>None</usbOutput700_2>
+        <usbOutput700_3>None</usbOutput700_3>
+        <usbOutput700_4>None</usbOutput700_4>
+        <usbOutput700_5>None</usbOutput700_5>
+        <usbOutput700_6>None</usbOutput700_6>
+        <usbOutput700_7>None</usbOutput700_7>
+        <audioMixMode>Stereo</audioMixMode>
+        <videoVolume>100</videoVolume>
+        <audioVolume>100</audioVolume>
+        <minimumVolume>0</minimumVolume>
+        <maximumVolume>100</maximumVolume>
+        <liveVideoInput>S-Video</liveVideoInput>
+        <liveVideoStandard>NTSC-M</liveVideoStandard>
+        <brightness>128</brightness>
+        <contrast>64</contrast>
+        <saturation>64</saturation>
+        <hue>0</hue>
+        <zOrderFront>False</zOrderFront>
+        <mosaic>False</mosaic>
+        <maxContentResolution>_NotApplicable</maxContentResolution>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 4</name>
+        <type>non-interactive</type>
+        <liveVideoItem>
+          <volume>100</volume>
+          <timeOnScreen>0</timeOnScreen>
+          <overscan>True</overscan>
+        </liveVideoItem>
+        <states>
+          <initialState />
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Weather Forecast</name>
+      <x>1205</x>
+      <y>662</y>
+      <width>650</width>
+      <height>242</height>
+      <type>Images</type>
+      <id>6</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 0</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Weather-Herndon</initialState>
+          <state>
+            <name>Weather-Herndon</name>
+            <x>107</x>
+            <y>15</y>
+            <width>116</width>
+            <height>99</height>
+            <id>0</id>
+            <html5Item>
+              <name>Weather-Herndon</name>
+              <htmlSiteName>Weather-Herndon</htmlSiteName>
+              <enableExternalData>True</enableExternalData>
+              <enableCamera>False</enableCamera>
+              <enableMouseEvents>False</enableMouseEvents>
+              <displayCursor>False</displayCursor>
+              <hwzOn>False</hwzOn>
+              <useUserStylesheet>False</useUserStylesheet>
+              <userStylesheet />
+              <timeOnScreen>0</timeOnScreen>
+            </html5Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Weather-DC</name>
+            <x>107</x>
+            <y>218</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <html5Item>
+              <name>Weather-Summary</name>
+              <htmlSiteName>Weather-Summary</htmlSiteName>
+              <enableExternalData>True</enableExternalData>
+              <enableCamera>False</enableCamera>
+              <enableMouseEvents>False</enableMouseEvents>
+              <displayCursor>False</displayCursor>
+              <hwzOn>False</hwzOn>
+              <useUserStylesheet>True</useUserStylesheet>
+              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\aeris-wxblox.css</userStylesheet>
+              <timeOnScreen>0</timeOnScreen>
+            </html5Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Weather-Herndon</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1800</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Weather-Herndon</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Weather-DC</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1800</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Weather-DC</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Layout Handler</name>
+      <x>0</x>
+      <y>36</y>
+      <width>296</width>
+      <height>72</height>
+      <type>Images</type>
+      <id>9</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>48</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 2</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Normal</initialState>
+          <state>
+            <name>Large</name>
+            <x>72</x>
+            <y>37</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignCmd>
+              <name>ResizeZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>resizeZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>x</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>1146</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>y</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>104</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>width</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>774</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>height</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>542</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ResizeZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>resizeZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>5</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>x</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>0</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>y</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>0</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>width</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>1148</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>height</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>646</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>22</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>6</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>30</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>23</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>29</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>10</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>11</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>12</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>13</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>14</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>24</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Normal</name>
+            <x>72</x>
+            <y>273</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ResizeZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>resizeZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>x</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>1473</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>y</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>712</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>width</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>380</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>height</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>260</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ResizeZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>resizeZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>5</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>x</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>0</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>y</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>0</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>width</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>1920</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+                <parameter>
+                  <name>height</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>1080</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>22</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>6</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>30</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>23</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>10</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>11</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>12</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>13</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>14</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>24</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>29</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Event Handler</name>
+            <x>232</x>
+            <y>455</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignCmd>
+              <name>ShowZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>showZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Event Handler 1</name>
+            <x>233</x>
+            <y>604</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignCmd>
+              <name>HideZone</name>
+              <customUI>True</customUI>
+              <command>
+                <name>hideZone</name>
+                <parameter>
+                  <name>zone</name>
+                  <uiElementName />
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>2</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Large</sourceMediaState>
+            <userEvent>
+              <name>keyboard</name>
+              <parameters>
+                <parameter>+</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Normal</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Large</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>TV Overlay Mode</parameter>
+                <label>TV Overlay Mode</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Normal</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Normal</sourceMediaState>
+            <userEvent>
+              <name>keyboard</name>
+              <parameters>
+                <parameter>+</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Large</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Normal</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Motion&lt;any&gt;</parameter>
+                <label>Motion&lt;any&gt;</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <brightSignCmd>
+              <name>SendZoneMessage</name>
+              <customUI>False</customUI>
+              <command>
+                <name>sendZoneMessage</name>
+                <parameter>
+                  <name>zoneMessage</name>
+                  <uiElementName>zoneMessage</uiElementName>
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>motion_alert</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <assignInputToUserVariable>True</assignInputToUserVariable>
+            <variableToAssign>Motion Alert</variableToAssign>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Normal</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>TV Overlay Mode</parameter>
+                <label>TV Overlay Mode</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Large</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Event Handler</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>9.5</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler 1</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Event Handler 1</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Normal</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Tile1</name>
+      <x>1146</x>
+      <y>0</y>
+      <width>140</width>
+      <height>104</height>
+      <type>Images</type>
+      <id>10</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 3</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Default Tile 1</initialState>
+          <state>
+            <name>Tile 1 Image Playlist</name>
+            <x>78</x>
+            <y>464</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 1 Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Front Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Default Tile 1</name>
+            <x>71</x>
+            <y>34</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>True</advanceOnImageTimeout>
+              <playFromBeginning>False</playFromBeginning>
+              <imageTimeout>1</imageTimeout>
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 1 Event Handler</name>
+            <x>74</x>
+            <y>320</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 1 Initial Image Playlist</name>
+            <x>71</x>
+            <y>169</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 1 Initial Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Front Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Front Door Unlocked" label="Front Door Unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-unlocked.png" name="tile-frontdoor-unlocked.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Open" label="Front Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-open.png" name="tile-frontdoor-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door Locked" label="Front Door Locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-frontdoor-locked.png" name="tile-frontdoor-locked.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Tile 1 Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 1 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Default Tile 1</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 1 Initial Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 1 Event Handler</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 1 Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 1 Initial Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 1 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Tile2</name>
+      <x>1300</x>
+      <y>0</y>
+      <width>140</width>
+      <height>104</height>
+      <type>Images</type>
+      <id>11</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 6</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Default Tile 2</initialState>
+          <state>
+            <name>Tile 2 Image Playlist</name>
+            <x>71</x>
+            <y>475</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 2 Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Back Deck</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Default Tile 2</name>
+            <x>71</x>
+            <y>34</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>True</advanceOnImageTimeout>
+              <playFromBeginning>True</playFromBeginning>
+              <imageTimeout>1</imageTimeout>
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 2 Event Handler</name>
+            <x>69</x>
+            <y>318</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 2 Initial Playlist</name>
+            <x>72</x>
+            <y>164</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 2 Initial Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Back Deck</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Back Deck Off" label="Back Deck Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-closed.png" name="tile-backdeck-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Back Deck On" label="Back Deck Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-backdeck-open.png" name="tile-backdeck-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Tile 2 Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 2 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Default Tile 2</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 2 Initial Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 2 Event Handler</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 2 Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 2 Initial Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 2 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Tile3</name>
+      <x>1460</x>
+      <y>0</y>
+      <width>140</width>
+      <height>104</height>
+      <type>Images</type>
+      <id>12</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 8</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Default Tile 3</initialState>
+          <state>
+            <name>Tile 3 Image Playlist</name>
+            <x>93</x>
+            <y>528</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 3 Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Kitchen Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Default Tile 3</name>
+            <x>80</x>
+            <y>4</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>True</advanceOnImageTimeout>
+              <playFromBeginning>False</playFromBeginning>
+              <imageTimeout>1</imageTimeout>
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Event Handler</name>
+            <x>89</x>
+            <y>384</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 3 Image Playlist 1</name>
+            <x>86</x>
+            <y>182</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 3 Image Playlist 1</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Kitchen Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Kitchen Door Off" label="Kitchen Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-closed.png" name="tile-kitchen-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Kitchen Door On" label="Kitchen Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-kitchen-open.png" name="tile-kitchen-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Tile 3 Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Default Tile 3</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 3 Image Playlist 1</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Event Handler</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 3 Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 3 Image Playlist 1</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Tile4</name>
+      <x>1620</x>
+      <y>0</y>
+      <width>140</width>
+      <height>104</height>
+      <type>Images</type>
+      <id>13</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 10</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Default Tile 4</initialState>
+          <state>
+            <name>Tile 4 Image Playlist</name>
+            <x>85</x>
+            <y>501</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 4 Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Basement Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Default Tile 4</name>
+            <x>80</x>
+            <y>4</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>True</advanceOnImageTimeout>
+              <playFromBeginning>False</playFromBeginning>
+              <imageTimeout>1</imageTimeout>
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Event Handler</name>
+            <x>78</x>
+            <y>360</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 4 Image Playlist 1</name>
+            <x>82</x>
+            <y>162</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 4 Image Playlist 1</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Basement Door</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Basement Door Off" label="Basement Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-closed.png" name="tile-basement-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Basement Door On" label="Basement Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-basement-open.png" name="tile-basement-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Tile 4 Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Default Tile 4</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 4 Image Playlist 1</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Event Handler</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 4 Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 4 Image Playlist 1</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Tile5</name>
+      <x>1780</x>
+      <y>0</y>
+      <width>140</width>
+      <height>104</height>
+      <type>Images</type>
+      <id>14</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 9</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Default Tile 5</initialState>
+          <state>
+            <name>Tile 5 Image Playlist</name>
+            <x>71</x>
+            <y>475</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 5 Image Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Notification</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Default Tile 5</name>
+            <x>71</x>
+            <y>34</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>True</advanceOnImageTimeout>
+              <playFromBeginning>True</playFromBeginning>
+              <imageTimeout>1</imageTimeout>
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="tile-blank-blue.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-blank-blue.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 5 Event Handler</name>
+            <x>69</x>
+            <y>318</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Tile 5 Initial Playlist</name>
+            <x>72</x>
+            <y>164</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Tile 5 Initial Playlist</stateName>
+              <slideTransition>Venetian blinds - vertical</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Garage Doors</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Garage Door Off" label="Garage Door Closed" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-closed.png" name="tile-garage-closed.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Garage Door On" label="Garage Door Open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\tile-garage-open.png" name="tile-garage-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Tile 5 Image Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 5 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Default Tile 5</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 5 Initial Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 5 Event Handler</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 5 Image Playlist</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Tile 5 Initial Playlist</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>.1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Tile 5 Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Clock</name>
+      <x>1673</x>
+      <y>928</y>
+      <width>207</width>
+      <height>111</height>
+      <type>Clock</type>
+      <id>22</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <displayTime>True</displayTime>
+        <rotation>0</rotation>
+        <widget>
+          <foregroundTextColor a="255" r="192" g="192" b="192" />
+          <backgroundTextColor a="0" r="0" g="0" b="0" />
+          <font>System</font>
+          <fontSize>0</fontSize>
+        </widget>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 5</name>
+        <type>non-interactive</type>
+        <clockItem />
+        <states>
+          <initialState />
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Banner Alert</name>
+      <x>1473</x>
+      <y>900</y>
+      <width>381</width>
+      <height>92</height>
+      <type>Images</type>
+      <id>23</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>96</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fit</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 13</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Event Handler Banner</initialState>
+          <state>
+            <name>Image Play File</name>
+            <x>59</x>
+            <y>252</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Image Play File</stateName>
+              <slideTransition>Image wipe from left</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Status Notification</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Front Door:Front Door Unlocked" label="front_door_unlocked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-unlock.png" name="wide-banner-front-door-unlock.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door:Front Door Locked" label="front_door_locked" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-lock.png" name="wide-banner-front-door-lock.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Front Door:Front Door Open" label="front_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-front-door-open.png" name="wide-banner-front-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
+                <file key="Deck Door:Deck Door On" label="deck_door_open" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-deck-door-open.png" name="wide-banner-deck-door-open.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Event Handler Banner</name>
+            <x>59</x>
+            <y>89</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <eventHandler2Item>
+              <stopPlayback>True</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Image List</name>
+            <x>59</x>
+            <y>411</y>
+            <width>116</width>
+            <height>99</height>
+            <id>3</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>False</advanceOnImageTimeout>
+              <playFromBeginning>False</playFromBeginning>
+              <imageTimeout />
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Image wipe from right</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="wide-banner-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\wide-banner-blank.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>.25</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Image Play File</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>5</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Image List</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Event Handler Banner</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>UDP_status</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Image Play File</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Image List</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>5</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler Banner</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Motion Banner Alert</name>
+      <x>1452</x>
+      <y>591</y>
+      <width>427</width>
+      <height>403</height>
+      <type>Images</type>
+      <id>24</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>48</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fit</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 16</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Event Handler Side Panel Alerts</initialState>
+          <state>
+            <name>Event Handler Side Panel Alerts</name>
+            <x>87</x>
+            <y>95</y>
+            <width>116</width>
+            <height>99</height>
+            <id>1</id>
+            <eventHandler2Item>
+              <stopPlayback>True</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Clean Wipe Image</name>
+            <x>90</x>
+            <y>468</y>
+            <width>116</width>
+            <height>99</height>
+            <id>2</id>
+            <mediaListItem>
+              <mediaType>image</mediaType>
+              <advanceOnMediaEnd>False</advanceOnMediaEnd>
+              <advanceOnImageTimeout>False</advanceOnImageTimeout>
+              <playFromBeginning>False</playFromBeginning>
+              <imageTimeout />
+              <support4KImages>False</support4KImages>
+              <shuffle>False</shuffle>
+              <slideTransition>Image wipe from bottom</slideTransition>
+              <sendZoneMessage>False</sendZoneMessage>
+              <startIndex>1</startIndex>
+              <transitionDuration>.25</transitionDuration>
+              <populateFromMediaLibrary>True</populateFromMediaLibrary>
+              <liveDataFeedName />
+              <files>
+                <imageItem>
+                  <file name="motion-banner-alert-blank.png" suffix="" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\motion-banner-alert-blank.png" />
+                  <fileIsLocal>True</fileIsLocal>
+                  <transitionDuration>1.0</transitionDuration>
+                  <videoPlayerRequired>False</videoPlayerRequired>
+                </imageItem>
+              </files>
+              <brightSignCmdsTransitionNextItem>
+              </brightSignCmdsTransitionNextItem>
+              <brightSignCmdsTransitionPrevItem>
+              </brightSignCmdsTransitionPrevItem>
+            </mediaListItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <state>
+            <name>Motion Banner Alert Play File</name>
+            <x>91</x>
+            <y>274</y>
+            <width>116</width>
+            <height>99</height>
+            <id>4</id>
+            <playFileItem>
+              <mediaType>image</mediaType>
+              <stateName>Motion Banner Alert Play File</stateName>
+              <slideTransition>Image wipe from top</slideTransition>
+              <specifyLocalFiles>True</specifyLocalFiles>
+              <useDefaultMedia>False</useDefaultMedia>
+              <useUserVariable>True</useUserVariable>
+              <userVariable>
+                <name>Motion Alert</name>
+                <defaultValue />
+                <networked>False</networked>
+                <liveDataFeedName />
+                <systemVariable />
+                <access>Shared</access>
+              </userVariable>
+              <liveDataFeedName />
+              <filesTable>
+                <file key="Motion Front Door" label="front-door-motion-alert" export="False" path="\\TOWER\John\Documents\BrightSignXT\Projects\Assets\motion-banner-alert-front-door.png" name="motion-banner-alert-front-door.png" suffix="" videoDisplayMode="2D" type="image" />
+              </filesTable>
+            </playFileItem>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Event Handler Side Panel Alerts</sourceMediaState>
+            <userEvent>
+              <name>zoneMessage</name>
+              <parameters>
+                <parameter>motion_alert</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Motion Banner Alert Play File</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Clean Wipe Image</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler Side Panel Alerts</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+          <transition>
+            <sourceMediaState>Motion Banner Alert Play File</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>10</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Clean Wipe Image</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayConnectingLine</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>UDP Notification Handler</name>
+      <x>0</x>
+      <y>156</y>
+      <width>394</width>
+      <height>67</height>
+      <type>Images</type>
+      <id>25</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fit</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 12</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Event Handler</initialState>
+          <state>
+            <name>Event Handler</name>
+            <x>74</x>
+            <y>20</y>
+            <width>116</width>
+            <height>99</height>
+            <id>0</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Event Handler</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Status &lt;any&gt;</parameter>
+                <label>Status &lt;any&gt;</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Event Handler</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <brightSignCmd>
+              <name>SendZoneMessage</name>
+              <customUI>False</customUI>
+              <command>
+                <name>sendZoneMessage</name>
+                <parameter>
+                  <name>zoneMessage</name>
+                  <uiElementName>zoneMessage</uiElementName>
+                  <parameterValue>
+                    <parameterValueItemText>
+                      <value>UDP_status</value>
+                    </parameterValueItemText>
+                  </parameterValue>
+                  <itemName />
+                  <validationRule>-1</validationRule>
+                </parameter>
+              </command>
+            </brightSignCmd>
+            <assignInputToUserVariable>True</assignInputToUserVariable>
+            <variableToAssign />
+            <assignWildcardToUserVariable>True</assignWildcardToUserVariable>
+            <variableToAssignFromWildcard>Status Notification</variableToAssignFromWildcard>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>UDP Reboot</name>
+      <x>0</x>
+      <y>259</y>
+      <width>260</width>
+      <height>65</height>
+      <type>Images</type>
+      <id>28</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fit</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 18</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Event Handler</initialState>
+          <state>
+            <name>Event Handler</name>
+            <x>86</x>
+            <y>70</y>
+            <width>116</width>
+            <height>99</height>
+            <id>0</id>
+            <eventHandler2Item>
+              <stopPlayback>False</stopPlayback>
+            </eventHandler2Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Event Handler</sourceMediaState>
+            <userEvent>
+              <name>udp</name>
+              <parameters>
+                <parameter>Reboot</parameter>
+                <label>Reboot</label>
+                <export>False</export>
+              </parameters>
+            </userEvent>
+            <targetMediaState />
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <brightSignCmd>
+              <name>Reboot</name>
+              <customUI>False</customUI>
+              <command>
+                <name>reboot</name>
+              </command>
+            </brightSignCmd>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Wx Radar</name>
+      <x>0</x>
+      <y>643</y>
+      <width>1153</width>
+      <height>437</height>
+      <type>Images</type>
+      <id>29</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fit</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 7</name>
+        <type>non-interactive</type>
+        <html5Item>
+          <name>Radar</name>
+          <htmlSiteName>Radar</htmlSiteName>
+          <enableExternalData>True</enableExternalData>
+          <enableCamera>False</enableCamera>
+          <enableMouseEvents>False</enableMouseEvents>
+          <displayCursor>False</displayCursor>
+          <hwzOn>False</hwzOn>
+          <useUserStylesheet>False</useUserStylesheet>
+          <userStylesheet />
+          <timeOnScreen>0</timeOnScreen>
+        </html5Item>
+        <states>
+          <initialState />
+        </states>
+      </playlist>
+    </zone>
+    <zone>
+      <name>Weather Summary</name>
+      <x>1205</x>
+      <y>917</y>
+      <width>445</width>
+      <height>162</height>
+      <type>Images</type>
+      <id>30</id>
+      <zoomValue>1</zoomValue>
+      <horizontalOffset>0</horizontalOffset>
+      <verticalOffset>0</verticalOffset>
+      <zoneSpecificParameters>
+        <imageMode>Scale to Fill</imageMode>
+      </zoneSpecificParameters>
+      <playlist>
+        <name>Playlist 11</name>
+        <type>interactive</type>
+        <states>
+          <initialState>Weather-Summary</initialState>
+          <state>
+            <name>Weather-Summary</name>
+            <x>107</x>
+            <y>15</y>
+            <width>116</width>
+            <height>99</height>
+            <id>0</id>
+            <html5Item>
+              <name>Weather-Summary</name>
+              <htmlSiteName>Weather-Summary</htmlSiteName>
+              <enableExternalData>True</enableExternalData>
+              <enableCamera>False</enableCamera>
+              <enableMouseEvents>False</enableMouseEvents>
+              <displayCursor>False</displayCursor>
+              <hwzOn>False</hwzOn>
+              <useUserStylesheet>True</useUserStylesheet>
+              <userStylesheet>\\TOWER\John\Documents\BrightSignXT\Projects\HTML\aeris-wxblox.css</userStylesheet>
+              <timeOnScreen>0</timeOnScreen>
+            </html5Item>
+            <brightSignExitCommands>
+            </brightSignExitCommands>
+            <notes />
+          </state>
+          <transition>
+            <sourceMediaState>Weather-Summary</sourceMediaState>
+            <userEvent>
+              <name>timeout</name>
+              <parameters>
+                <parameter>1800</parameter>
+              </parameters>
+            </userEvent>
+            <targetMediaState>Weather-Summary</targetMediaState>
+            <remainOnCurrentStateActions>None</remainOnCurrentStateActions>
+            <displayMode>displayLabel</displayMode>
+            <labelLocation>bottom</labelLocation>
+            <assignInputToUserVariable>False</assignInputToUserVariable>
+            <assignWildcardToUserVariable>False</assignWildcardToUserVariable>
+          </transition>
+        </states>
+      </playlist>
+    </zone>
+  </zones>
+</BrightAuthor>

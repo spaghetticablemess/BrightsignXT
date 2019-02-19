@@ -1,0 +1,21 @@
+<script src="https://cdn.aerisapi.com/wxblox/aeris-wxblox.min.js"></script>
+
+<!--// target DOM element where WeatherBlox will be rendered //-->
+<div id="wxblox" class="aeris-wrapper"></div>
+
+<script>
+
+// set Aeris account access keys
+Aeris.wxblox.setAccess('1Q76YEF2t98BpwSiC2bxF', 'XmPt2SqH91YfGek10iftnLIOClcoN9OhOvWRFjlX');
+
+// create desired WeatherBlox instance
+var view = new Aeris.wxblox.views.Phrases('#wxblox', {
+    title: "outlook"
+});
+
+// load data and render the view for a specific location
+view.load({
+    p: "herndon,va"
+});
+
+</script>
